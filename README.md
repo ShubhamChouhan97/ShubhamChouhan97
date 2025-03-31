@@ -1,10 +1,10 @@
 # 👋 Hi there, I'm Shubham Chouhan
 
 ### 👨‍💻 About Me
-🚀 Passionate Full-Stack Developer
-🎯 Focused on MERN Stack & Scalable Solutions
-📚 Currently learning Advanced Backend Architecture & Cloud Technologies
-⚡ Fun fact: Coffee gives me power for debugging!
+-🚀 Passionate Full-Stack Developer
+-🎯 Focused on MERN Stack & Scalable Solutions
+-📚 Currently learning Advanced Backend Architecture & Cloud Technologies
+-⚡ Fun fact: Coffee gives me power for debugging!
 
 ### 🛠 Tech Stack
 <p align="left">
