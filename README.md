@@ -19,7 +19,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
 
 ### 🛠 Skills
@@ -31,7 +30,6 @@
 - Version Control (Git, GitHub)
 - Problem-Solving & Debugging
 - C & C++ Programming
-- Linux System Administration
 
 ### 🚀 Projects
 - **YapYup** - A real-time MERN chat application with JWT authentication & Socket.io. 
